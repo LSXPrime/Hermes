@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hermes.API", "Hermes.API\Hermes.API.csproj", "{4D98A33E-AA6D-4249-85E8-B43C5A7F32AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hermes.Domain", "Hermes.Domain\Hermes.Domain.csproj", "{D23CB1B2-C3C9-4060-A887-D52D604B0710}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hermes.Infrastructure", "Hermes.Infrastructure\Hermes.Infrastructure.csproj", "{D45F5400-025B-4BA5-9B11-8407AA22CE44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hermes.Application", "Hermes.Application\Hermes.Application.csproj", "{93FB797C-69C9-49C2-8162-3D6F78E81A84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hermes.API.Tests.Integration", "Hermes.API.Tests.Integration\Hermes.API.Tests.Integration.csproj", "{1177FA28-9911-4798-91E1-171E2255D9AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D98A33E-AA6D-4249-85E8-B43C5A7F32AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D98A33E-AA6D-4249-85E8-B43C5A7F32AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D98A33E-AA6D-4249-85E8-B43C5A7F32AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D98A33E-AA6D-4249-85E8-B43C5A7F32AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23CB1B2-C3C9-4060-A887-D52D604B0710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23CB1B2-C3C9-4060-A887-D52D604B0710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23CB1B2-C3C9-4060-A887-D52D604B0710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23CB1B2-C3C9-4060-A887-D52D604B0710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D45F5400-025B-4BA5-9B11-8407AA22CE44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45F5400-025B-4BA5-9B11-8407AA22CE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45F5400-025B-4BA5-9B11-8407AA22CE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45F5400-025B-4BA5-9B11-8407AA22CE44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93FB797C-69C9-49C2-8162-3D6F78E81A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FB797C-69C9-49C2-8162-3D6F78E81A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FB797C-69C9-49C2-8162-3D6F78E81A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FB797C-69C9-49C2-8162-3D6F78E81A84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1177FA28-9911-4798-91E1-171E2255D9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1177FA28-9911-4798-91E1-171E2255D9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1177FA28-9911-4798-91E1-171E2255D9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1177FA28-9911-4798-91E1-171E2255D9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
